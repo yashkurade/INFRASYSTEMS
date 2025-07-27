@@ -16,7 +16,7 @@
 - A supervisory condition means there is an issue with a system, process, or equipment that is monitored by the fire alarm control unit.
 -  An example of this would be a sprinkler system valve being closed, this would show up as a supervisory signal on the control unit.
 
-![Pasted image 20250622105120.png](Media/Pasted image 20250622105120.png)![Pasted image 20250622105231.png](Media/Pasted image 20250622105231.png)
+![Pasted image 20250622105120.png](Media/Pasted%20image%2020250622105120.png)![Pasted image 20250622105231.png](Media/Pasted%20image%2020250622105231.png)
 ### Types of Fire Alarm Detectors
 - Heat detectors
 - Smoke detectors 
@@ -45,7 +45,7 @@
 	2. Redundancy Requirements
 	3. Scalability
 	4. Budget Constraints
-![Pasted image 20250622113549.png](Media/Pasted image 20250622113549.png)
+![Pasted image 20250622113549.png](Media/Pasted%20image%2020250622113549.png)
 ### Fire Alarm Control Panel
 - The controlling component of a fire alarm system. 
 - The panel receives information from devices designed to detect and report fires, monitors their operational integrity, and provides for automatic control of equipment, and transmission of information necessary to prepare the facility for fire based on a predetermined sequence.
