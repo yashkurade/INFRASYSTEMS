@@ -15,7 +15,8 @@
 - Fragmentation: Sending data in small pieces to slip past detection systems.
 - Pattern Evasion: Changing attack methods to avoid detection by IDS systems that look for specific patterns.
 - Coordinated Attack: Using multiple attackers or ports to scan a network, confusing the IDS and making it hard to see what is happening.
-- ![Pasted image 20250628134630.png](Media/Pasted image 20250628134630.png)### Classification of IDS:
+- ![Pasted image 20250628134630.png](Media/Pasted%20image%2020250628134630.png)
+### Classification of IDS:
 - Network Intrusion Detection System (NIDS):
 	- Monitors network traffic across an entire network segment to detect suspicious activity or known attack patterns. It analyzes packet data flowing to and from all connected devices.
 - Host Intrusion Detection System (HIDS):
