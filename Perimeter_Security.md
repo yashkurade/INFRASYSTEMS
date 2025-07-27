@@ -11,7 +11,8 @@
 - Preemptive Measures: Detect, Deter, Delay
 - Boosted Operational Continuity
 - Enhanced Peace of Mind
-- ![Pasted image 20250705110058.png](Media/Pasted%20image%2020250705110058.png)### Real life examples:
+- ![Pasted image 20250705110058.png](Media/Pasted%20image%2020250705110058.png)
+### Real life examples:
 - FFT Cams 3
 	- The AC2000 Future Fiber Technologies (FFT) Central Alarms Monitoring System 3 (CAMS 3) interface for perimeter detection allows alarms and events, controllers and zones from a FFT CAMS 3 installation to be incorporated into AC2000
 - Southwest Microwave
