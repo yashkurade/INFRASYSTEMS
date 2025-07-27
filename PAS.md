@@ -13,13 +13,15 @@
 ### Acoustic Design and Sound Propagation Modeling:
 - Acoustic design involves planning and implementing architectural elements and materials to manage sound reflection, absorption, and diffusion, while sound propagation modeling uses computer simulations to predict how sound waves behave in a space.
 - speaker placement, room geometry, reverberation time, and materials affect intelligibility and coverage.
-		![Pasted image 20250627141408.png](Media/Pasted image 20250627141408.png)- Simulation tools used to model SPL (Sound Pressure Level) distribution.
+		![Pasted image 20250627141408.png](Media/Pasted%20image%2020250627141408.png)
+- Simulation tools used to model SPL (Sound Pressure Level) distribution.
 	1. EASE 
 	2. Odeon
 - STI (Speech Transmission Index)
 	- The STI measures some physical characteristics of a transmission channel (a room, electro-acoustic equipment, telephone line, etc.), and expresses the ability of the channel to carry across the characteristics of a speech signal.
-	- ![Pasted image 20250627141932.png](Media/Pasted image 20250627141932.png)	- C50 clarity index:
-		- Compares the energy of early reflections (arriving within 50 milliseconds) to the energy of later reflections.
+	- ![Pasted image 20250627141932.png](Media/Pasted%20image%2020250627141932.png)
+- C50 clarity index:
+	- Compares the energy of early reflections (arriving within 50 milliseconds) to the energy of later reflections.
 	- C50 quantifies the ratio of early to late arriving sound energy, while STI measures how well speech can be understood, taking into account factors like reverberation and background noise.
 
 ### Microphone Types, Placement, and Signal Chain:
@@ -28,7 +30,7 @@
 	- Condenser microphones, on the other hand, are more sensitive and offer a wider frequency response, making them ideal for studio recording and capturing subtle details in vocals and instruments
 	- Placement
 
-| ![Pasted image 20250627163725.png](Media/Pasted image 20250627163725.png) | ![Pasted image 20250627163733.png](Media/Pasted image 20250627163733.png) | ![Pasted image 20250627163745.png](Media/Pasted image 20250627163745.png) |
+| ![Pasted image 20250627163725.png](Media/Pasted%20image%2020250627163725.png) | ![Pasted image 20250627163733.png](Media/Pasted%20image%2020250627163733.png) | ![Pasted image 20250627163745.png](Media/Pasted%20image%2020250627163745.png) |
 | ------------------------------------ | ------------------------------------ | ------------------------------------ |
 ### Amplification Technologies and Power Management:
 
